@@ -25,14 +25,12 @@
             "id": "a3723be2920b9d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "齿轮.md",
-                "mode": "source",
-                "source": false
+                "file": "note22.png"
               },
-              "icon": "lucide-file",
-              "title": "齿轮"
+              "icon": "lucide-image",
+              "title": "note22"
             }
           }
         ],
@@ -179,27 +177,27 @@
   },
   "active": "a3723be2920b9d46",
   "lastOpenFiles": [
-    "表面结构要求.md",
+    "note21.jpg",
+    "note20.png",
     "极限与配合与几何公差.md",
-    "键与销.md",
-    "齿轮.md",
+    "note22.png",
+    "note19.png",
+    "note18.jpg",
+    "表面结构要求.md",
+    "note17.png",
+    "note16.png",
     "各类零件的视图选择.md",
+    "note14.jpg",
+    "note15.png",
+    "齿轮.md",
     "各类视图.md",
     "滚动轴承.md",
+    "键与销.md",
     "零件常见结构的尺寸注法.md",
     "零件工艺结构简介.md",
     "螺纹与螺纹紧固件.md",
     "退刀槽.jpg",
     "Engineering Graphics.md",
-    "note13.jpg",
-    "note12.jpg",
-    "note11.jpg",
-    "note10.jpg",
-    "image-0.png",
-    "note9.jpg",
-    "note8.jpg",
-    "note7.jpg",
-    "note6.jpg",
     "未命名 2.md"
   ]
 }
