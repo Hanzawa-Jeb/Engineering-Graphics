@@ -25,16 +25,74 @@
             "id": "a3723be2920b9d46",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "note22.png"
+                "file": "各类视图.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "note22"
+              "icon": "lucide-file",
+              "title": "各类视图"
+            }
+          },
+          {
+            "id": "6d212de59ba62e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "尺寸标注.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "尺寸标注"
+            }
+          },
+          {
+            "id": "54864ed1f1ce62ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "各类视图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "各类视图"
+            }
+          },
+          {
+            "id": "1abb6237bebf7b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAD.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAD"
+            }
+          },
+          {
+            "id": "389c41dc58e6d776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Graphics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineering Graphics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,32 +230,37 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3723be2920b9d46",
+  "active": "389c41dc58e6d776",
   "lastOpenFiles": [
+    "CAD.md",
+    "螺纹与螺纹紧固件.md",
+    "零件图与装配图.md",
+    "零件工艺结构简介.md",
+    "零件常见结构的尺寸注法.md",
+    "键与销.md",
+    "极限与配合与几何公差.md",
+    "滚动轴承.md",
+    "各类视图.md",
+    "各类零件的视图选择.md",
+    "多种投影方式.md",
+    "齿轮.md",
+    "尺寸标注.md",
+    "表面结构要求.md",
+    "Engineering Graphics.md",
+    "note29.png",
+    "note28.png",
+    "note27.png",
+    "note26.png",
+    "note25.png",
+    "note24.png",
+    "note23.jpg",
+    "note22.png",
     "note21.jpg",
     "note20.png",
-    "极限与配合与几何公差.md",
-    "note22.png",
-    "note19.png",
-    "note18.jpg",
-    "表面结构要求.md",
-    "note17.png",
-    "note16.png",
-    "各类零件的视图选择.md",
-    "note14.jpg",
-    "note15.png",
-    "齿轮.md",
-    "各类视图.md",
-    "滚动轴承.md",
-    "键与销.md",
-    "零件常见结构的尺寸注法.md",
-    "零件工艺结构简介.md",
-    "螺纹与螺纹紧固件.md",
-    "退刀槽.jpg",
-    "Engineering Graphics.md",
     "未命名 2.md"
   ]
 }
